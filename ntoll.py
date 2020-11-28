@@ -244,3 +244,4 @@ def smart_quotes():
 if __name__ == "__main__":
     doctest.testmod()
     spend_by_supplier_graph()
+    smart_quotes()
