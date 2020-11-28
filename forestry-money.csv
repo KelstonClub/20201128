@@ -1,0 +1,73 @@
+Departmental Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Net Amount,VAT Amount,Gross Amount,Description
+Defra,Forestry England,10/06/2020,"Buildings, Services, Utilities",Business Services-Finance,Advanced Business Solutions Ltd,141587,30634.75,6126.95,36761.7,Hosting Charges
+Defra,Forestry England,10/06/2020,"Buildings, Services, Utilities",Business Services-Finance,Advanced Business Solutions Ltd,141587,22806.59,4561.32,27367.91,Software As A Service
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Bellingham,Allstar Business Solutions Ltd,144124,9.8,1.95,11.75,Subcontracted Vehicle Repair
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Lyndhurst,Allstar Business Solutions Ltd,144103,21.66,4.3,25.96,Vehicle Parts And Spares
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144103,24223.38,4844.36,29067.74,Derv
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144103,1412.31,282.35,1694.66,Petrol
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144107,22225.01,4444.78,26669.79,Derv
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144107,828.83,165.68,994.51,Petrol
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144112,29022.48,5804.01,34826.49,Derv
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144112,1517.23,303.25,1820.48,Petrol
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144118,34969.89,6993.48,41963.37,Derv
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144118,1423.27,284.45,1707.72,Petrol
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144124,31655.55,6330.78,37986.33,Derv
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Mes Overhead,Allstar Business Solutions Ltd,144124,1650.77,329.96,1980.73,Petrol
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Santon Downham,Allstar Business Solutions Ltd,144103,9.17,1.8,10.97,Vehicle Parts And Spares
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Santon Downham,Allstar Business Solutions Ltd,144107,10,2,12,Vehicle Parts And Spares
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Santon Downham,Allstar Business Solutions Ltd,144118,14.16,2.8,16.96,Vehicle Parts And Spares
+Defra,Forestry England,10/30/2020,Fleet And Machinery Costs,Mechanical And Engineering-Santon Downham,Allstar Business Solutions Ltd,144124,33.27,6.61,39.88,Subcontracted Vehicle Repair
+Defra,Forestry England,10/01/2020,Civil Engineering,Central-Civil Engineering,Clixbys Forestry & Environment Contractors,141035,6708,1341.6,8049.6,Aggregate
+Defra,Forestry England,10/01/2020,Civil Engineering,Central-Civil Engineering,Clixbys Forestry & Environment Contractors,141035,5000,1000,6000,Ce Serv Other
+Defra,Forestry England,10/01/2020,Civil Engineering,Central-Civil Engineering,Clixbys Forestry & Environment Contractors,141035,8367.65,1673.53,10041.18,Ce Serv Road Maintenance
+Defra,Forestry England,10/01/2020,Civil Engineering,Central-Civil Engineering,Clixbys Forestry & Environment Contractors,141035,276,55.2,331.2,Other Civils Goods
+Defra,Forestry England,10/01/2020,Civil Engineering,Central-Civil Engineering,Clixbys Forestry & Environment Contractors,141035,729.36,145.87,875.23,Pipes
+Defra,Forestry England,10/14/2020,"Buildings, Services, Utilities",Westonbirt-Westonbirt Overhead,Cotswold District Council,2371,-72968.8,0,-72968.8,Business Rates
+Defra,Forestry England,10/13/2020,Civil Engineering,North-Civil Engineering,David G Walton,142438,27606,5521.2,33127.2,Ce Serv Road Construction
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142915,23902.48,4780.5,28682.98,Ovme Additions
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142917,23902.48,4780.5,28682.98,Ovme Additions
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142918,23902.48,4780.5,28682.98,Ovme Additions
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142919,23902.48,4780.5,28682.98,Ovme Additions
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142920,23902.48,4780.5,28682.98,Ovme Additions
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142921,23902.48,4780.5,28682.98,Ovme Additions
+Defra,Forestry England,10/15/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Dsg Renault,142924,-23902.48,-4780.5,-28682.98,Ovme Additions
+Defra,Forestry England,10/29/2020,Movements On Ppe And Ncahfs,Estates-Estates,Eversheds Sutherland (International) Llp,144576,25422.1,5084.42,30506.52,Sales Costs Of Disposed Ppe
+Defra,Forestry England,10/15/2020,"Buildings, Services, Utilities","Plant, Seed  And Supply-Delamere Bareroot",Green Cooling Ltd,142616,56346.09,11269.22,67615.31,Ops Building Mgmt
+Defra,Forestry England,10/06/2020,"Buildings, Services, Utilities",South-Other Estates Business,Hi-Tech Property Services Ltd,141444,44683.51,8936.7,53620.21,Ops Building Mgmt
+Defra,Forestry England,10/22/2020,"Buildings, Services, Utilities",Central-Buildings,Horsman Construction Limited,143703,22682,4536.4,27218.4,Ops Building Mgmt
+Defra,Forestry England,10/01/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Lloyd Ltd,141219,34700,6940,41640,Ovme Additions
+Defra,Forestry England,10/01/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Lookers Plc,141220,27413.74,6182.75,33596.49,Ovme Additions
+Defra,Forestry England,10/01/2020,Vehicles Machinery Equipment,Mechanical And Engineering-Mes Overhead,Lookers Plc,141221,27413.74,6182.75,33596.49,Ovme Additions
+Defra,Forestry England,10/15/2020,Civil Engineering,South-Civils Recreation,Mp & Km Golding Ltd,142899,1300,260,1560,Aggregate
+Defra,Forestry England,10/15/2020,Civil Engineering,South-Civils Recreation,Mp & Km Golding Ltd,142899,17555,3511,21066,Bridges And Bridge Parts
+Defra,Forestry England,10/15/2020,Civil Engineering,South-Civils Recreation,Mp & Km Golding Ltd,142899,2010,402,2412,Ce Serv Trail Construction
+Defra,Forestry England,10/29/2020,Civil Engineering,South-Civils Forest Operations,Mp & Km Golding Ltd,144974,5500,1100,6600,Aggregate
+Defra,Forestry England,10/29/2020,Civil Engineering,South-Civils Forest Operations,Mp & Km Golding Ltd,144974,24030,4806,28836,Ce Serv Harvesting Repair
+Defra,Forestry England,10/27/2020,"Buildings, Services, Utilities",Central-Buildings,Mr C Wilkinson,144383,41420,8284,49704,Ops Building Mgmt
+Defra,Forestry England,10/20/2020,Professional Services,Business Services-Finance,National Audit Office,143216,49065,0,49065,External Audit Services
+Defra,Forestry England,10/06/2020,Harvesting And Forest Regen,Central-Northants North,Peake Forestry,141690,21635.2,4327.04,25962.24,Dp Contracted Services
+Defra,Forestry England,10/08/2020,Harvesting And Forest Regen,South-Chiddingfold,Premier Tree Care & Conservation Ltd,142032,50000,10000,60000,Landscape Maintenance Services
+Defra,Forestry England,10/27/2020,Intangibles,Operations Nt-Operations Nt,Scisys Uk Ltd,144411,25243.33,5048.67,30292,Intangibles Additions
+Defra,Forestry England,10/20/2020,Harvesting And Forest Regen,North-Kielder South,T.P.H Limited,143560,46232.42,9246.48,55478.9,Dp Contracted Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Fc Alice Holt,Viridor Waste (Thetford) Ltd,142542,1393.5,278.7,1672.2,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Fc Moors Valley,Viridor Waste (Thetford) Ltd,142542,140.7,28.14,168.84,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Fc West Walk,Viridor Waste (Thetford) Ltd,142542,85,17,102,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Forest Management,Viridor Waste (Thetford) Ltd,142542,270,54,324,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Micheldever,Viridor Waste (Thetford) Ltd,142542,1869.28,373.86,2243.14,Fly Tipping Clearance Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Micheldever,Viridor Waste (Thetford) Ltd,142542,96.67,19.33,116,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-New Forest Inclosures,Viridor Waste (Thetford) Ltd,142542,555.02,111,666.02,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Ringwood,Viridor Waste (Thetford) Ltd,142542,511.6,102.32,613.92,Fly Tipping Clearance Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Ringwood,Viridor Waste (Thetford) Ltd,142542,2054.28,410.86,2465.14,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Rpa New Forest,Viridor Waste (Thetford) Ltd,142542,3168.5,633.7,3802.2,Fly Tipping Clearance Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Rpa New Forest,Viridor Waste (Thetford) Ltd,142542,10117.92,2023.58,12141.5,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Solent,Viridor Waste (Thetford) Ltd,142542,209.45,41.89,251.34,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-South District Office,Viridor Waste (Thetford) Ltd,142542,189.9,37.97,227.87,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-South Downs,Viridor Waste (Thetford) Ltd,142542,482.45,96.49,578.94,Fly Tipping Clearance Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-South Downs,Viridor Waste (Thetford) Ltd,142542,307.35,61.47,368.82,Waste Management Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Wareham,Viridor Waste (Thetford) Ltd,142542,92.72,18.54,111.26,Fly Tipping Clearance Services
+Defra,Forestry England,10/13/2020,"Buildings, Services, Utilities",South-Wareham,Viridor Waste (Thetford) Ltd,142542,1534.56,306.91,1841.47,Waste Management Services
+Defra,Forestry England,10/08/2020,"Buildings, Services, Utilities",Business Services-Information Technology,Vysiion Ltd,142018,2803.38,560.68,3364.06,Networking
+Defra,Forestry England,10/08/2020,"Buildings, Services, Utilities",Business Services-Information Technology,Vysiion Ltd,142018,45176.18,9035.24,54211.42,Software As A Service
+Defra,Forestry England,10/08/2020,"Buildings, Services, Utilities",Business Services-Information Technology,Vysiion Ltd,142018,41590.38,8318.08,49908.46,Software Licence Charges
+Defra,Forestry England,10/20/2020,Assets Under Construction,Central-Fc Delamere Development,Willmott Dixon Construction Ltd,143638,74248.29,14849.66,89097.95,Auc Additions
+Defra,Forestry England,10/20/2020,Civil Engineering,Central-Fc Delamere Development,Willmott Dixon Construction Ltd,143638,90774.66,18154.93,108929.59,Ce Serv Car Park Construction
