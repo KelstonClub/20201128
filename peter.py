@@ -8,7 +8,7 @@ def odd_numbers(n):
     odd_numbers = []
     counter = 0
     while True:
-        if len(odd_numbers) == 5:
+        if len(odd_numbers) == n:
             break
         else:
             counter += 1
@@ -104,9 +104,8 @@ def spend_by_supplier_graph(filename="forestry-money.csv"):
 #
 def smart_quotes(text):
     raise NotImplementedError
-    
+
 if __name__ == '__main__':
     #~ print(odd_numbers(5))
     #~ print(triangular_numbers(5))
     print(is_a_palindrome("A man, a plan, a canal - Panama!"))
- 

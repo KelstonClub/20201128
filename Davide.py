@@ -24,11 +24,8 @@ def triangular_numbers(n):
     tri_list = []
     current_tri = 0
     for i in range(1, n):
-        print("i", i)
         for p in range(1, i):
-            print("p", p)
             current_tri += p
-            print("current", current_tri)
         tri_list.append(current_tri)
         current_tri = 0
     return tri_list
@@ -53,13 +50,15 @@ def is_a_palindrome(text):
         if c in string.ascii_letters:
             letter_list.append(c)
 
+    #~ letter_list = [c for c in text if c in string.ascii_letters]
+
     print(letter_list)
     reverse_list = list(reversed(letter_list))
     if letter_list == reverse_list:
         print("hello")
         return True
-    
-            
+
+
 
 #print(is_a_palindrome("Anna"))
 
@@ -77,6 +76,7 @@ def highest_number_of_passengers(filename="rail-passenger-journeys.csv"):
             if num == 0:
                 pass
             else:
+                print(row[1])
                 current = row[1].replace(",", "")
                 print(current)
                 if float(current) > float(largest):
@@ -85,7 +85,7 @@ def highest_number_of_passengers(filename="rail-passenger-journeys.csv"):
 
     return(year)
 
-print(highest_number_of_passengers())
+#~ print(highest_number_of_passengers())
 
 
 #

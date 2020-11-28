@@ -85,10 +85,8 @@ def yearly_changes(filename="rail-passenger-journeys.csv"):
     desc = True
     with open(filename) as f:
         r = csv.reader(f)
+        next(r)
         for i in r:
-            if desc:
-                desc = False
-                continue
             n = next(r)
             yield (i[0], n[0], int(float(i[1].replace(',', ''))-float(n[1].replace(',', ''))))
 
@@ -158,5 +156,5 @@ def smart_quotes(in_file="bleak-house.txt", out_file="text.out"):
             o_s_q = False
             for c in line:
                 if c == "'":
-                    c.replace("'", '2018')
+                    c.replace("'", '\u2018')
 
